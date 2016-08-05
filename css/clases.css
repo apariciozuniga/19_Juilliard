@@ -1,0 +1,80 @@
+/* Inserta tu codigo aqui */
+.imag{
+	width: 70%;
+	height: 70%;
+	margin-left: 20%;
+	padding: 1%;
+}
+.caja2{
+	width:100% ;
+	padding: 6%;
+	background-color:black;
+	opacity: 0.6;
+	border: 1% solid gray;
+	margin-left: 1%;
+	margin-top: 60%;
+}
+a{
+ text-decoration: none;
+ color:#193467 ;
+}
+
+.back{
+	background-color: #f2f2f2;
+	padding: 4%;
+}
+
+#ballet{
+	background-image: url("../img/dance_12.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 9%;
+}
+
+#dance{
+	background-image: url("../img/breakdance.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 2%;
+}
+#jazz{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 2%;
+}
+#arabic{
+	background-image: url("../img/arabe.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 9%;
+}
+#kis{
+	background-image: url("../img/little.jpg");
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 2%;
+}
+#yoga{
+	background-image: url("../img/yoga.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 300px;
+	height:400px;
+	margin-top: -5px;
+	margin-left: 2%;
+}

@@ -1,0 +1,50 @@
+/* Inserta tu codigo aqui */
+.back{
+	background-color: #f2f2f2;
+	padding: 4%;
+}
+
+.caja{
+	background-color:  #c0c0c0;
+	width: 1000px;
+	height:200px;
+	margin-top: 15px;
+	margin-left: -11%;
+
+}
+
+#blog{
+	width: 290px;
+	height:200px;
+	margin-top: 15px;
+	margin-left: 10%;
+
+
+}
+#prof{
+	width: 290px;
+	height:200px;
+	margin-top: 15px;
+	margin-left: 10%;
+
+
+}
+#inst{
+	width: 290px;
+	height:200px;
+	margin-top: 15px;
+	margin-left: 10%;
+
+
+}
+
+.ver{
+	background-color:#000033 ;
+	color: white;
+	font-size: 100%;
+	width: 30%;
+	height: 25%;
+	margin-top: 2%;
+	margin-left: 5%;
+
+}

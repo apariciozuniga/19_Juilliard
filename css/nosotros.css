@@ -1,0 +1,114 @@
+/* Inserta tu codigo aqui */
+
+li{
+	
+	display: inline-block;
+	margin-left: 15%;
+	margin-bottom: 3%;
+}
+h1{
+	color:#000055;
+	margin-left: 40%;
+	margin-bottom: 5%;
+	margin-top: 3%;
+}
+h3{
+	margin-top: 5%;
+	margin-left: 10%;
+}
+.align{
+	margin-left: 10%;
+}
+.big{
+	font-size: 250%;
+}
+
+
+hr{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 50%;
+	margin-left: 27%;
+}
+.back{
+	background-image: url("../img/dance_7.jpg");
+	padding: 20%;
+	margin-left: 1%;
+	background-repeat: no-repeat; 
+}
+
+.caja{
+	width:60% ;
+	padding: 5%;
+	background-color:#333333;
+	opacity: 0.5;
+	border: 1% solid gray;
+	margin-left: 10%;
+	margin-top: -7%;
+	
+}
+.text{
+	margin-left: 5%;
+	margin-top: 4%;
+
+
+}
+.cubes1{
+	background-image: url("../img/cubes.png");
+	padding: 7%;
+	margin-top: -5%;
+}
+.cubes{
+	background-image: url("../img/cubes.png");
+	padding: 7%;
+	margin-top: 10%;
+	
+}
+#rod{
+	width: 290px;
+	height:200px;
+	margin-top: 10px;
+	margin-left: 10%;
+}
+#ada{
+	width: 290px;
+	height:200px;
+	margin-top: 10px;
+	margin-left: 7%;
+}
+#ian{
+	width: 290px;
+	height:200px;
+	margin-top: 10px;
+	margin-left: 7%;
+}
+#kal{
+	width: 290px;
+	height:200px;
+	margin-top: 10px;
+	margin-left: 7%;
+}
+#emm{
+	width: 290px;
+	height:200px;
+	margin-top: 130px;
+	margin-left: 10%;
+}
+#sam{
+	width: 290px;
+	height:200px;
+	margin-top: 130px;
+	margin-left: 7%;
+}
+#kim{
+	width: 290px;
+	height:200px;
+	margin-top: 130px;
+	margin-left: 7%;
+}
+#mag{
+	width: 290px;
+	height:200px;
+	margin-top: 130px;
+	margin-left: 7%;
+}

@@ -1,0 +1,46 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+.footer{
+	background-color: #000033;
+	margin:1%;
+	color:white;
+	padding: 1%;
+}
+.bck{
+	background-image: url("../img/shoes_1.jpg");
+	padding: 7%;
+	background-repeat: no-repeat;
+	margin-left: 50%;
+}
+li{
+	
+	display: inline-block;
+	margin-left: 13%;
+	margin-bottom: 3%;
+	padding: 1%;
+}
+.form{
+	padding: .5%;
+	margin-bottom: 1%;
+	margin-left: -60%;
+	width: 40%;
+	height: 25%;
+}
+.enviar{
+	background-color:#000033 ;
+	color: white;
+	font-size: 100%;
+}
+.big{
+	font-size: 250%;
+}
+.text{
+	margin-left: 5%;
+	margin-top: 4%;
+
+}
+h1{
+	color: #193467;
+	margin-bottom: 5%;
+	margin-top: 3%;
+}
+

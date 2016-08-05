@@ -1,0 +1,49 @@
+
+.decoration1{
+	position: relative;
+	bottom: -10%;
+	left: 40%;
+	width:15% ;
+	height: 15%;
+}
+.navy{
+	width:30%;
+	height: 20%;
+	border-radius: 3%;
+	border: 1% ridge white;
+	background-color:#000066 ;
+	margin-left: 35%;
+	margin-bottom: 5%;
+	padding: 2%;
+	color: white;
+}
+.img{
+	width:45%;
+	height: 20%;
+
+}
+.imag{
+	width:45%;
+	height: 15%;
+
+
+
+}
+.map{
+	margin-top:5%;
+	margin-bottom: 15%;
+}
+
+.boton{
+	padding: 3%;
+	margin: 2%;
+	background-color:#000033;
+	color: white; 
+	border: none;
+}
+.fondo{
+	background-color: #000033;
+	margin-top: 5%;
+	
+
+}
